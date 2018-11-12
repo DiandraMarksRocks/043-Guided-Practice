@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.boxes {
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.redbox {
+    background: red;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+.bluebox {
+    background: blue;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
